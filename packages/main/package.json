@@ -9,7 +9,7 @@
   },
   "homepage": "/",
   "dependencies": {
-    "@ant-design/pro-layout": "6.5.17",
+    "@ant-design/pro-layout": "6.6.1",
     "@umijs/preset-react": "1.7.8",
     "querystring": "0.2.0",
     "react": "17.0.1",

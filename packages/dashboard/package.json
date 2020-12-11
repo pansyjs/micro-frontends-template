@@ -10,7 +10,7 @@
   "dependencies": {
     "@alitajs/antd-plus": "2.5.0",
     "@ant-design/pro-card": "1.6.1",
-    "@ant-design/pro-layout": "6.5.17",
+    "@ant-design/pro-layout": "6.6.1",
     "@pansy/react-charts": "1.0.0",
     "@umijs/preset-react": "1.7.8",
     "numeral": "2.0.6",
