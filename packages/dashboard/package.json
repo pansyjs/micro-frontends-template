@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@alitajs/umi-plugin-antd-plus": "0.2.0",
-    "@types/numeral": "0.0.29",
+    "@types/numeral": "0.0.30",
     "@umijs/plugin-qiankun": "2.19.0"
   }
 }
