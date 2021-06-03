@@ -18,6 +18,6 @@
     "use-merge-value": "1.0.2"
   },
   "devDependencies": {
-    "@umijs/plugin-qiankun": "2.24.1"
+    "@umijs/plugin-qiankun": "2.25.0"
   }
 }
